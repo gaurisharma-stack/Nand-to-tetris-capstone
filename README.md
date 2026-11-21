@@ -1,6 +1,6 @@
-## K.R. Mangalam University
-# School of Engineering & Technology
-# Nand to Tetris I — Capstone Project
+# K.R. Mangalam University
+### School of Engineering & Technology
+### Nand to Tetris I — Capstone Project
 ## Make the Computer & Draw a Box
 
 **Course code:** ETCCNT301  
